@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="comp_history">Company History</string>
+    <string name="comp_vision">Vision</string>
+    <string name="comp_contact">Contact/Address</string>
+    <string name="comp_support">Support Form</string>
+    <string name="history_title">- Company History</string>
+    <string name="vision_title">- Company Vision</string>
+    <string name="address_title">- Company Address</string>
+    <string name="support_title">- Support Forum</string>
+    <string name="name_text">Name:</string>
+    <string name="email_text">Email:</string>
+    <string name="phone_text">Phone No:</string>
+    <string name="message_text">Message:</string>
+    <string name="submit_text">Submit</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="title_activity_map">Map</string>
+</resources>
